@@ -4,8 +4,8 @@
 🚀 Apaixonado por tecnologia e programação
 
 ## 🛠️ Tecnologias que eu conheço
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Java
 - Git & GitHub
