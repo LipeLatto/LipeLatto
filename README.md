@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Felipe Rebelatto Saldanha
 
-<img src="https://avatars.githubusercontent.com/LipeLatto" width="150" style="border-radius:50%" />
+
 
 🎓 Engenharia de Software  
 💻 Desenvolvimento Front-End  
