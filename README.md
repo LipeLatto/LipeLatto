@@ -1,22 +1,21 @@
-Felipe Rebelatto Saldanha | Estudante de Engenharia de Software | Desenvolvimento Front-End
+ Felipe Rebelatto Saldanha | Estudante de Engenharia de Software | Front-End
 
-Brasil
+Sobre: Estudante de Engenharia de Software focado em Desenvolvimento Front-End. Atuo com HTML, CSS e JavaScript, aplicando conceitos de estrutura, estilização e interatividade. Perfil autodidata voltado à construção de projetos reais e fundamentação técnica.
 
-Sobre
-Estudante de Engenharia de Software com foco em Desenvolvimento Front-End. Desenvolvimento de projetos utilizando HTML, CSS e JavaScript, com aplicação de conceitos de estrutura, estilização, interatividade e organização de código. Perfil autodidata com foco em construção de projetos reais e fundamentação técnica.
 
-Tecnologias
-Portfólio
-https://lipelatto.github.io/portfolio/
+Tecnologias:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Projetos
-Portfólio Pessoal
+Portfólio e Projetos:
+Portfólio: [lipelatto.github.io/portfolio/](https://lipelatto.github.io/portfolio/)
+Portfólio Pessoal: [github.com/LipeLatto/portfolio](https://github.com/LipeLatto/portfolio)
+Jogo em Java: [github.com/LipeLatto/jogo-java](https://github.com/LipeLatto/jogo-java)
+Projetos Web (HTML/CSS/JS): [github.com/LipeLatto/site-html-css-curso](https://github.com/LipeLatto/site-html-css-curso)
 
-Jogo em Java
-
-Projetos com HTML, CSS e JavaScript
-
-Contato
+Contato:
 Email: feliperebelatto87@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/felipe-saldanha-244534379/
+LinkedIn: [linkedin.com/in/felipe-saldanha-244534379/](https://www.linkedin.com/in/felipe-saldanha-244534379/)
