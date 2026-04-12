@@ -1,5 +1,4 @@
-Felipe Rebelatto Saldanha
-Estudante de Engenharia de Software | Desenvolvimento Front-End
+Felipe Rebelatto Saldanha | Estudante de Engenharia de Software | Desenvolvimento Front-End
 
 Brasil
 
